@@ -45,7 +45,7 @@ $ yarn start
 
 ## 📝 Licença
 
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo de [LICENÇA](https://github.com/allanpablo/dashgo/blob/main/LICENSE) para detalhes.
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo de [LICENÇA](https://github.com/allanpablo/React-dashgo/blob/main/LICENSE) para detalhes.
 
 
 ---
